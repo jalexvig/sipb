@@ -1,0 +1,6 @@
+[submodule "fast_weights/fast-weights"]
+	path = fast_weights/fast-weights
+	url = https://github.com/jalexvig/fast-weights
+[submodule "wasserstein_gan/WassersteinGAN"]
+	path = wasserstein_gan/WassersteinGAN
+	url = https://github.com/martinarjovsky/WassersteinGAN
